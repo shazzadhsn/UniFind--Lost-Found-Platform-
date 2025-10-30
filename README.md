@@ -1,7 +1,6 @@
 
   # Lost and Found Web App
 
-  This is a code bundle for Lost and Found Web App. The original project is available at https://www.figma.com/design/rWNGZVs98KCQjpsmkXHNkg/Lost-and-Found-Web-App.
 
   ## Running the code
 
